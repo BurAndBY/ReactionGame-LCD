@@ -1,9 +1,9 @@
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h> // Using a 1602 display connected via I2C ()
 LiquidCrystal_I2C lcd(0x27, 16, 2); // Setting the I2C address of the display.
-int Player1 = 11;
-int Player2 = 12;
-int GameLED = 13;
+int Player1 = 11; //Button 1 connected to pin 11
+int Player2 = 12; //Button 2 connected to pin 12
+int GameLED = 13; //LED connected to pin 13 using resistor 220Ω, you can use builtin LED
 unsigned long waitTime;
 unsigned long startTime;
 unsigned long reactTime_P1;
