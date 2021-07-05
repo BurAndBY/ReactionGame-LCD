@@ -1,4 +1,4 @@
-# ReactionGame-LCD
+# Reaction Game for Arduino with LCD1602
 [![Issues](https://img.shields.io/github/issues/BurAndBY/ReactionGame-LCD?style=flat-square)](https://shields.io) 
 [![Forks](https://img.shields.io/github/forks/BurAndBY/ReactionGame-LCD?style=flat-square)](https://shields.io)
 [![Stars](https://img.shields.io/github/stars/BurAndBY/ReactionGame-LCD?style=flat-square)](https://shields.io)
